@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="formD">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">@dimen/general_margin</item>
+        <item name="android:layout_marginTop">24dp</item>
+        <item name="android:ems">10</item>
+        <item name="android:inputType">text</item>
+        <item name="android:minHeight">48dp</item>
+        <item name="android:padding">@dimen/general_padding</item>
+        <item name="android:textColorHint">@color/black</item>
+    </style>
+</resources>
