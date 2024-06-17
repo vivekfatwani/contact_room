@@ -1,9 +1,9 @@
 # This app is called Contact Room
 <br> 
-Description
+Description:-
 <br>
 It is like Contact Manager and it uses the concept of Android Room
 <br>
-Features
+Features:-
 <br>
 In this app you can save,update and delete  your contact  
